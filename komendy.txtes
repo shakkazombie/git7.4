@@ -1,9 +1,0 @@
-Commands :
-
-autoprefixer :
-
-	autoprefixer-cli -o style.prefixed.css style.css
-
-html-checker :	
-	nu-html-checker -cli -a *.html
-
