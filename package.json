@@ -1,0 +1,27 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.23.6"
+  },
+  "devDependencies": {
+    "package.json": "^2.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shakkazombie/git7.4.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shakkazombie/git7.4/issues"
+  },
+  "homepage": "https://github.com/shakkazombie/git7.4#readme"
+}
